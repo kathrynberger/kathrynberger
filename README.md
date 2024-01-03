@@ -14,7 +14,5 @@ I’m Kathryn, a Tech Delivery Lead at [Overstory](https://www.overstory.com) fr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kathryn-berger-3a71941b/)
 
-[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://www.twitter.com/@kathrynaberger)
-
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4245--2318-green?logo=orcid)](https://orcid.org/0000-0001-9731-6519)
 
