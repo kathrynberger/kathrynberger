@@ -9,6 +9,7 @@ I’m Kathryn, a Tech Delivery Lead at [Overstory](https://www.overstory.com) fr
 :speech_balloon: A selection of blog posts and creations: 
 - [Mentorship is key to supporting a diverse geospatial workforce](https://developmentseed.org/blog/2023-01-10-mentorship) _Because mentorship is good for business_
 - [GIS Portfolio 101](https://gis-portfolio-101-women-in-geo.hub.arcgis.com/) _A great resource and tutorial for building your own GIS portfolio_
+- [Our Forests Tomorrow](https://developmentseed.org/our-forests-tomorrow/#species=%22Fagus_sylvatica%22&timeStep=%222095%22) _Visualizing European forests future. Based on the EU-Trees4F study by Mauri et al. 2022_ _More information available on GitHub [here](https://github.com/developmentseed/our-forests-tomorrow)_
 
 :computer: Where to find me: 
 
