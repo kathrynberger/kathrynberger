@@ -1,6 +1,6 @@
 ### :star2: Hi there and welcome! :star2:
 
-I’m Kathryn, a Tech Delivery Lead at [Overstory](https://www.overstory.com) from the greater Boston area :us:, currently living outside of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+I’m Kathryn, a Lead Data Scientist at the UK [Department for Science, Innovation & Technology](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology) from the greater Boston area :us:, currently living outside of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 :earth_americas: I am passionate about harnessing geospatial data to solve the challenges of global health, food security, and the environment. I believe in making machine learning tools, data, and resources more accessible for social good through open data and open science.
 
